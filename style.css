@@ -7,3 +7,12 @@
     15% { transform: rotate(10deg); }
     20% { transform: rotate(0deg); }
 }
+table{
+    min-width: 320px;
+    max-width: 800px;
+    margin: auto;
+}
+.img-resp{
+    width: 100%;
+    padding-right: 10px;
+}
